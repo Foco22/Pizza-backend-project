@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKER_IMAGE: Pizza-backend-project
+  DOCKER_IMAGE: pizza-backend-project
   DOCKER_TAG: latest
 
 jobs:
