@@ -167,18 +167,3 @@ docker-compose up -d
 # Stop services
 docker-compose down
 ```
-
-## Technologies Used
-
-- **Express.js** - Web framework
-- **MongoDB** - Database
-- **Mongoose** - ODM for MongoDB
-- **JSON Web Tokens** - Authentication
-- **bcryptjs** - Password hashing
-- **express-validator** - Input validation
-- **dotenv** - Environment configuration
-- **cors** - Cross-origin resource sharing
-- **Docker** - Containerization
-- **Kubernetes** - Container orchestration
-- **GitHub Actions** - CI/CD automation
-- **Google Cloud Platform** - Cloud infrastructure (GKE, Compute Engine)
