@@ -5,8 +5,9 @@ This is the backend for the Piazza Project, a social platform.
 ## Description
 
 The main objective of this project is to provide services for the Piazza Project, which contains the different APIs and models for the application. The main services are:
-   1- Users Services: Contains the services for login, register and authenticate a user.
-   2- Interactions Services: Contains all the services for creating a post, comments, disliking or liking a post, etc.
+
+1. **Users Services**: Contains the services for login, register and authenticate a user.
+2. **Interactions Services**: Contains all the services for creating a post, comments, disliking or liking a post, etc.
 
 
 ## Project Structure
